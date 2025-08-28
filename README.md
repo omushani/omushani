@@ -4,16 +4,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-link/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="ushaniomprasadyt@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/omprasadushani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
   <img src="https://komarev.com/ghpvc/?username=omushani&style=for-the-badge&label=Profile+Views" />
 </p>
 
 ---
 
 ### 👋 About Me
-- 🔭 Currently building: **Alumni Interaction Portal** & **Recipe Management System**
+
 - 🎯 Interests: Java • DBMS • Web Apps • Git & DevOps
 - 📚 Learning: React, Spring Boot, Docker
 - 💬 Ask me about: normalization, transactions, indexing, Git tips
@@ -41,16 +41,7 @@
 ---
 
 ### 🚀 Featured Projects
-<details open>
-  <summary><b>🔗 Alumni Interaction Portal</b> — Mentor–mentee matching, profiles, events</summary>
-  
-  - Login, profile linking, and student–alumni messaging  
-  - Tech: React • Node/Express • PostgreSQL • Docker  
-  - Demo: _(coming soon)_  
-  - Repo: https://github.com/omushani/alumni-portal
-</details>
 
-<details>
   <summary><b>🍳 Recipe Management System</b> — Ingredients → Suggestions → Nutrition</summary>
 
   - Favorites, allergy filters, calorie tracking, Maggi specials 😉  
