@@ -109,9 +109,9 @@
 
 ### 🤝 Connect
 <p>
-  <a href="mailto:youremail@example.com">youremail@example.com</a> • 
-  <a href="https://www.linkedin.com/in/your-link/">LinkedIn</a> • 
-  <a href="https://twitter.com/your-handle">X/Twitter</a>
+  <a href="mailto:ushaniomprasadyt@gmail.com">ushaniomprasadyt@gmail.com</a> • 
+  <a href="https://www.linkedin.com/in/omprasadushani/">LinkedIn</a> • 
+  <a href="https://twitter.com/Omprasad_u">X/Twitter</a>
 </p>
 
 ---
