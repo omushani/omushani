@@ -41,7 +41,7 @@
 ## ✨ Fun Section
 💡 *“First, solve the problem. Then, write the code.”*  
 
-![snake gif](https://github.com/omushani/omushani/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
